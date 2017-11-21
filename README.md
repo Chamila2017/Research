@@ -1,2 +1,2 @@
 # Research
-All research projects will be uploaded here
+All research projects which are basically learnings
